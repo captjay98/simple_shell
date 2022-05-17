@@ -1,6 +1,6 @@
 #include "GATEOFSHELL.h"
 /**
- * func_ctrl_d - allows use of ctrl d as way of shutting down shell
+ * func_ctrl_d - Allows use of ctrl d as way of shutting down shell
  * @string: the argument passed
  * @read: size of the saved string
  * @stad_exit: integer static var
