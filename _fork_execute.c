@@ -2,7 +2,7 @@
 /**
  * forkwaitexec - executes the commands passed
  * @args: commands passed in CL
- * @status: receiving the status true or false
+ * @status: receiving the status true or false statement
  * @count: variable that counts the commands passed
  * @stad_exit: integer static
  * Return: void
