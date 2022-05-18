@@ -1,7 +1,7 @@
 #include "GATEOFSHELL.h"
 /**
  * _strlen - function return length of string
- * @s: string
+ * @s: String
  *
  * Return: length of string
  */

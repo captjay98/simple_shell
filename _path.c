@@ -1,7 +1,7 @@
 #include "GATEOFSHELL.h"
 
 /**
- * _path - search for PATH in the env
+ * _path - Search for PATH in the env
  * @args: arguments saved on getline
  * @argv: arguments passed
  * @env: environment variable
