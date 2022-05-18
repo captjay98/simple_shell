@@ -3,7 +3,7 @@
 /**
  * main- entry point to the shell
  * @argc: number of arguments
- * @argv: entered arguments to the CL
+ * @argv: entered Arguments to the CL
  * @env: environment variable
  * Return: 0 in success- Otherwise 1.
  */
