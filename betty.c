@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - prints to stdout
+* Main - prints to stdout
 * Description: trying to impress betty
 * Return: Always 0 (Success)
 */
